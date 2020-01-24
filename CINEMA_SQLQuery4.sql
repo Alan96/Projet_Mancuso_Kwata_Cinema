@@ -124,7 +124,7 @@ INSERT INTO  Production (ImageAffiche,Nom,TypeSerieFilm,BoxOffice,DateSortie) VA
 
 INSERT INTO  Avis (Note,commentaire) VALUES ('5/10','un bon film')
 
-
+INSERT INTO  Avis (Note,commentaire) VALUES ('10/10','Tres bon film')
 
 
 
